@@ -1,4 +1,5 @@
 ### Hey, I'm Sycles 👋
+I code for fun in my free time.
 
 ## 🔭 My current project
 
