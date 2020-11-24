@@ -3,7 +3,7 @@ I code for fun in my free time.
 
 ### 🔭 My current project
 
-I'm currently working on [EcoBot](https://github.com/sycles/EcoBot), an economy discord bot that is focused on **never** leaving you bored!
+I'm currently working on [EcoBot](http://syclesdev.com/EcoBot), an economy discord bot that is focused on **never** leaving you bored!
 
 ### ⚡ My experience 
 I have been developing discord bots for about 2 years now. I have made plenty of bots ranging from moderation bots, to simple community bots!
