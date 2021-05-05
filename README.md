@@ -13,5 +13,3 @@ Recently I have been putting a lot of effort into my front-end web development s
 
 ### 📫 Contact me
 I am most active on discord, to contact me there my tag is sycles#3388. If you arn't able to reach me on discord feel free to DM me on twitter [@imsycles](https://twitter.com/imsycles)
-
-[![Sycles GitHub stats](https://github-readme-stats.vercel.app/api?username=sycles)](https://github.com/sycles/github-readme-stats)
