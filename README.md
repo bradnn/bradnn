@@ -1,15 +1,15 @@
-## Hey, I'm Sycles 👋
-I code for fun in my free time.
+## Hey, I'm Braden 👋
+I code for fun in my free time using innovative and progressing technologies.
 
 ### 🔭 My current project
 
-I'm currently working on [EcoBot](http://syclesdev.com/EcoBot), an economy discord bot that is focused on **never** leaving you bored!
+I'm currently working on various discord bots & websites including [tamon](https://github.com/bradnn/tamon) and [my website](https://www.bradn.dev).
 
 ### ⚡ My experience 
-I have been developing discord bots for about 2 years now. I have made plenty of bots ranging from moderation bots, to simple community bots!
+I have been working with JavaScript & Java for 2 years now creating various pieces of software and websites. I have utilized technologies such as VueJS, NodeJS, ReactJS, React-Native, Spigot, and Discord.JS.
 
 ### 🌱 What I'm learning
-Recently I have been putting a lot of effort into my front-end web development skills to further expand my portfolio.
+I'm interested in learning more about back-end web development and progressive web applications.
 
 ### 📫 Contact me
-I am most active on discord, to contact me there my tag is sycles#3388. If you arn't able to reach me on discord feel free to DM me on twitter [@imsycles](https://twitter.com/imsycles)
+I am usually most active on my discord account braden#6668. I will also respond at my email business@mail.bradn.dev
