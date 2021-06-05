@@ -12,4 +12,4 @@ I have been working with JavaScript & Java for 2 years now creating various piec
 I'm interested in learning more about back-end web development and progressive web applications.
 
 ### 📫 Contact me
-I am usually most active on my discord account braden#6668. I will also respond at my email business@mail.bradn.dev
+I am most active on my discord account braden#6668. I will also respond at my email business@mail.bradn.dev
