@@ -13,3 +13,5 @@ I'm interested in learning more about back-end web development and progressive w
 
 ### 📫 Contact me
 I am most active on my discord account braden#6668. I will also respond at my email business@mail.bradn.dev
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/263789620007927813)](https://discord.com/users/263789620007927813)
